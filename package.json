@@ -1,0 +1,10 @@
+{
+  "name": "docker-web-app",
+  "version": "1.0.0",
+  "description": "Minimal web app containerized with Docker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT"
+}
