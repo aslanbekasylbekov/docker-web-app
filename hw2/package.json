@@ -1,0 +1,14 @@
+{
+  "name": "docker-web-app",
+  "version": "2.0.0",
+  "description": "Node.js web app with PostgreSQL, orchestrated with Docker Compose",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "5.1.0",
+    "pg": "8.13.1"
+  },
+  "license": "MIT"
+}
